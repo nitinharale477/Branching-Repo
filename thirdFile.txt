@@ -1,0 +1,3 @@
+After creating branch 
+we switch branch from master to flower using "git checkout flower"
+
